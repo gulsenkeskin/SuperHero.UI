@@ -1,5 +1,7 @@
 # SuperHeroUI
 
+Angular 14 CRUD with .net core 6 api
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
